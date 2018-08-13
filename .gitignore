@@ -11,6 +11,6 @@
 #*.[oa]
 
 # temp sub-directory (ended with a directory separator)
-Debug/
+Debug/*
 #
 .vs/
